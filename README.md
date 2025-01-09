@@ -8,7 +8,7 @@
   <div align="center"></div>
 </p>
 
-![image](https://github.com/Songyu-Xu/Nested-ResNet/tree/main/figure/framework.png "Workflow")
+![image](https://github.com/Songyu-Xu/Nested-ResNet/tree/main/figure/framework.png)
 
 ### Contents
 1. [Requirements](#requirements)
